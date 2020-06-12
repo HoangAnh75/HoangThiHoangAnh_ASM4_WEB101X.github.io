@@ -1,0 +1,42 @@
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    *{box-sizing: border-box;}
+    #img-aboutus{
+        width: 400px;
+        height: 230px;       
+    }
+    navbar-expand-sm {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: row nowrap;
+        flex-flow: row nowrap;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        background-color: dodgerblue;
+        }
+    .card-img-overlay .card-title{
+       margin-top:5em;
+        margin-left: 3em;
+    }
+    .card-img-overlay .card-text{
+       margin-top:5em;
+        margin-left: 4em;
+    }
+    #section2{
+        position: relative;
+    }
+    #icon-hand{
+        position: absolute;
+        top:15em;
+        left:1.5em;
+    }
+    #icon-book{
+        position: absolute;
+        top:20em;
+        left:1.5em;
+    }
+    p#pnew3{font-size:8px;}
+    .strnew{
+        font-size: 12px;
+    }    
+}

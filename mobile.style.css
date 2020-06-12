@@ -1,0 +1,32 @@
+/*--Style mobile--*/
+@media only screen and (max-width: 767px) {
+     
+    img#imgpeople{
+        height:25rem;
+    }
+    .card-img-overlay .card-title{
+        margin-left: 4em;
+    }
+    .card-img-overlay .card-text{
+        margin-left: 4em;
+    }
+    #section2{
+        position: relative;
+    }
+    #icon-hand{
+        position: absolute;
+        top:6em;
+        left:2em;
+    }
+    #icon-book{
+        position: absolute;
+        top:14em;
+        left:2em;
+    }
+    div#section3{
+        margin-left: 1em;
+    }
+    footer#footer{
+        margin-left: 0.1em;
+    } 
+}
