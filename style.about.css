@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#icon-aboutus,#icon-ourteam{
+    color:#0000FF;}
+div#footer{
+    background: black;
+} 
+ ul li {list-style-type: none;}
+ #copy{
+     text-align: center;
+ }
+ 
+ nav{
+    background-color:#1E90FF;
+}
+a#brand.navbar-brand{
+    background-color:#1E90FF;
+    color:#fff;
+}
+i#search.fa.fa-search::before{
+    color:#fff;
+}
